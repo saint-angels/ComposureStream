@@ -183,8 +183,8 @@ Material:
     - _DetailNormalMapScale: 1
     - _DetailNormalScale: 1
     - _DetailSmoothnessScale: 1
-    - _DiffusionProfile: 3
-    - _DiffusionProfileHash: 3.2551575
+    - _DiffusionProfile: -1
+    - _DiffusionProfileHash: 3.6471915
     - _DisplacementLockObjectScale: 1
     - _DisplacementLockTilingScale: 1
     - _DisplacementMode: 0
@@ -261,16 +261,16 @@ Material:
     - _SpecularHighlights: 1
     - _SpecularOcclusionMode: 1
     - _SrcBlend: 1
-    - _StencilRef: 4
+    - _StencilRef: 12
     - _StencilRefDepth: 8
     - _StencilRefDistortionVec: 4
     - _StencilRefGBuffer: 14
-    - _StencilRefMV: 40
-    - _StencilWriteMask: 6
+    - _StencilRefMV: 32
+    - _StencilWriteMask: 14
     - _StencilWriteMaskDepth: 8
     - _StencilWriteMaskDistortionVec: 4
     - _StencilWriteMaskGBuffer: 14
-    - _StencilWriteMaskMV: 40
+    - _StencilWriteMaskMV: 32
     - _Stiffness: 1
     - _SubsurfaceMask: 1
     - _SupportDBuffer: 0
@@ -303,8 +303,8 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DiffusionProfileAsset: {r: 2999.0671, g: -0.00000012115457, b: -2.9097088e-32,
-        a: -1933.3362}
+    - _DiffusionProfileAsset: {r: -5.0332736e-19, g: 1.4924123e+22, b: -3.6919906e-28,
+        a: -2.672457e+21}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 1}

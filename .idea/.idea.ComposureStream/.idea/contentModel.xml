@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Michael\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Michael\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_ComposureStream.602270777.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Michael\Unity Projects\ComposureStream" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Klak" t="Include">
+          <e p="NDI" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Klak.Ndi.Editor.asmdef" t="Include" />
+              <e p="MaterialPropertySelector.cs" t="Include" />
+              <e p="NdiReceiverEditor.cs" t="Include" />
+              <e p="NdiSenderEditor.cs" t="Include" />
+              <e p="PbxModifier.cs" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="Receiver.shader" t="Include" />
+              <e p="Sender.shader" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+              <e p="Internal" t="Include">
+                <e p="PluginEntry.cs" t="Include" />
+                <e p="Utility.cs" t="Include" />
+              </e>
+              <e p="Klak.Ndi.asmdef" t="Include" />
+              <e p="NdiManager.cs" t="Include" />
+              <e p="NdiReceiver.cs" t="Include" />
+              <e p="NdiSender.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Samples" t="Include">
+          <e p="ARRadar" t="Include">
+            <e p="ARRadarController.cs" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="Kenney" t="Include">
+              <e p="CharacterKit" t="Include">
+                <e p="License.txt" t="Include" />
+              </e>
+              <e p="License.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="HideInPlayMode.cs" t="Include" />
+              <e p="OnClickURL.cs" t="Include" />
+            </e>
+            <e p="Standard Assets" t="Include">
+              <e p="Characters" t="Include">
+                <e p="ThirdPersonCharacter" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="AICharacterControl.cs" t="Include" />
+                    <e p="ThirdPersonCharacter.cs" t="Include" />
+                    <e p="ThirdPersonUserControl.cs" t="Include" />
+                  </e>
+                  <e p="ThirdPersonCharacterGuidelines.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Textures" t="Include">
+              <e p="harshbricks-Unity" t="Include">
+                <e p="About these PBR files.txt" t="Include" />
+              </e>
+              <e p="octostone-Unity" t="Include">
+                <e p="About these PBR files.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="GenieMagicLamp" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="MagicLampHandler.cs" t="Include" />
+            </e>
+          </e>
+          <e p="GrassWind" t="Include">
+            <e p="TendTo.cs" t="Include" />
+          </e>
+          <e p="Portal" t="Include">
+            <e p="Script" t="Include">
+              <e p="Lights.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="PortalDistortion.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Billboard.cs" t="Include" />
+          <e p="ButtonPushSender.cs" t="Include" />
+          <e p="OSCCameraSwitcher.cs" t="Include" />
+          <e p="PlayMovieTextureOnUI.cs" t="Include" />
+        </e>
+        <e p="UnityMainThreadDispatcher" t="Include">
+          <e p="UnityMainThreadDispatcher.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ComposureStream.sln" t="IncludeFlat" />
+      <e p="GameOptions.csproj" t="IncludeRecursive" />
+      <e p="GameOptions.Editor.csproj" t="IncludeRecursive" />
+      <e p="jp.keijiro.osc-jack.Editor.csproj" t="IncludeRecursive" />
+      <e p="jp.keijiro.osc-jack.Runtime.csproj" t="IncludeRecursive" />
+      <e p="Klak.Ndi.csproj" t="IncludeRecursive" />
+      <e p="Klak.Ndi.Editor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive">
+        <e p="jp.keijiro.osc-jack" t="Include">
+          <e p="Editor" t="Include">
+            <e p="jp.keijiro.osc-jack.Editor.asmdef" t="Include" />
+            <e p="OscEventReceiverEditor.cs" t="Include" />
+            <e p="OscMonitorWindow.cs" t="Include" />
+            <e p="OscPropertySenderEditor.cs" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="Base" t="Include">
+              <e p="Internal" t="Include">
+                <e p="OscDataTypes.cs" t="Include" />
+                <e p="OscPacketEncoder.cs" t="Include" />
+                <e p="OscPacketParser.cs" t="Include" />
+              </e>
+              <e p="OscClient.cs" t="Include" />
+              <e p="OscDataHandle.cs" t="Include" />
+              <e p="OscMaster.cs" t="Include" />
+              <e p="OscMessageDispatcher.cs" t="Include" />
+              <e p="OscServer.cs" t="Include" />
+            </e>
+            <e p="jp.keijiro.osc-jack.Runtime.asmdef" t="Include" />
+            <e p="Unity" t="Include">
+              <e p="OscEventReceiver.cs" t="Include" />
+              <e p="OscPropertySender.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="net.peeweek.game-options" t="Include">
+          <e p="Editor" t="Include">
+            <e p="GameOptions.Editor.asmdef" t="Include" />
+            <e p="MenuItems.cs" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+            <e p="Core" t="Include">
+              <e p="AudioOption.cs" t="Include" />
+              <e p="GraphicOption.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="ButtonApplyOptions.cs" t="Include" />
+                <e p="DropDownFullScreenMode.cs" t="Include" />
+                <e p="DropDownQuality.cs" t="Include" />
+                <e p="DropDownRefreshRate.cs" t="Include" />
+                <e p="DropDownResolution.cs" t="Include" />
+                <e p="DropDownTargetFramerate.cs" t="Include" />
+                <e p="HighlightEntry.cs" t="Include" />
+                <e p="SliderAudioParameter.cs" t="Include" />
+                <e p="SliderTargetFramerate.cs" t="Include" />
+                <e p="SliderTextBind.cs" t="Include" />
+                <e p="ToggleVSync.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GameOption.cs" t="Include" />
+            <e p="GameOptions.asmdef" t="Include" />
+            <e p="GameOptions.cs" t="Include" />
+            <e p="HDRP" t="Include">
+              <e p="HDRPCameraOption.cs" t="Include" />
+              <e p="HDRPGameOptionsManagedCamera.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="HDRPAntiAliasingDropdown.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Utility" t="Include">
+              <e p="DropDownAutoScrollOnChange.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
